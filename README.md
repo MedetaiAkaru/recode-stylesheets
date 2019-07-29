@@ -29,7 +29,7 @@ Ensure you have the following gems in your Rails `Gemfile`
 ```ruby
 # Gemfile
 gem 'autoprefixer-rails'
-gem 'font-awesome-sass', '~> 5.6.1'
+gem 'font-awesome-sass'
 gem 'simple_form'
 ```
 
